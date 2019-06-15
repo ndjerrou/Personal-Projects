@@ -4,3 +4,6 @@ Youtube_Clone : <a href="https://raw.githack.com/ndjerrou/VideoPlayer_Youtube-Li
 
 InmuitForm_Clone : <a href="https://raw.githack.com/themonster2015/Intuit-Signup-Form/development/index.html">Give it a try</a> using HTML & CSS + Flexbox
 
+NYTimes_Clone : <a href="https://raw.githack.com/ndjerrou/NYTimes_Clone/dev/index.html">Give it a try</a> using HTML & CSS + Positionning
+
+
